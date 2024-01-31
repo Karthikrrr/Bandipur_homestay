@@ -121,7 +121,7 @@ h2 {
 .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
-    font-family: "Font Awesome 5 Free";
+    font-family: "Google Sans" , sans-serif;
     font-weight: 900;
     vertical-align: middle;
     margin-left: 8px;
@@ -553,7 +553,7 @@ h2 {
 .footer .btn.btn-link::before {
     position: relative;
     content: "\f105";
-    font-family: "Font Awesome 5 Free";
+    font-family: "Google Sans" , sans-serif;
     font-weight: 900;
     color: var(--primary);
     margin-right: 10px;
